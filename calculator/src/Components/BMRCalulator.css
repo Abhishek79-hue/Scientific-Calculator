@@ -1,0 +1,44 @@
+
+.Bmr-conatiner {
+    height: 250px;
+    width: 350px;
+    margin: auto;
+    border: 1px solid black; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 20px;
+    border-radius: 5px;
+}
+h1{
+    color: green;
+    text-align: center;
+}
+label{
+    padding-right:10px;
+}
+input[type="number"]
+ {
+    height: 20px;
+    margin-bottom: 20px; /* Space between fields */
+    width: 200px;
+    padding-left: 10px;
+}
+input[type="radio"]{
+    height: 20px;
+    margin-bottom: 20px;
+    width: 50px;
+}
+button {
+    height: 40px;                
+    width: 200px;                 
+    margin-top: 20px;   
+    margin-left: 55px;        
+    background-color:green;      
+    color: white;             
+    text-align: center;     
+    display: block; 
+}
+p{
+    text-align: center;
+    font-size: 16px;
+}
